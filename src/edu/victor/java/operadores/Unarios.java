@@ -1,7 +1,14 @@
 package edu.victor.java.operadores;
 
 public class Unarios {
+    public static int incrementar() {
+        int numero = 5;
+        System.out.println(numero ++); //Printa antes de incrementar de fato
+        System.out.println(numero); //Printa o resultado incrementado
+        return numero;
+    }
     public static void main(String[] args) {
+        System.out.println(incrementar());
         int numero = 5;
 
         //Imprimindo o numero negativo
