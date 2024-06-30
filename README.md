@@ -19,7 +19,7 @@ Sou programador profissional desde 2021 e tenho programado com: Java|Python|GoLa
 📌 Atualmente interessado em desenvolvimento de IA.
 
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 👈 click
 
 ### Habilidades
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
