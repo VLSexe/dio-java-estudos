@@ -7,6 +7,7 @@ public class Unarios {
         System.out.println(numero); //Printa o resultado incrementado
         return numero;
     }
+
     public static void main(String[] args) {
         System.out.println(incrementar());
         int numero = 5;
